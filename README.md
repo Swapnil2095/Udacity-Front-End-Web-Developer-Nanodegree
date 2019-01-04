@@ -1,6 +1,5 @@
 ## Welcome to My Udacity Projects
 
-
 ##Project Name and Links
 
 1. Aracade Game - 
